@@ -1,5 +1,6 @@
 // crear las clases Edificio, Piso y Departamento aquí
 // HOLA ESTOY EDITANDO DESDE GITHUB!!!
+// HOLA ME EDITARON DE NUEVO QLP
 class Departamento {
     nombreDeDepartamento:string;
     constructor(nombre:string) {
