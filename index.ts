@@ -1,5 +1,5 @@
 // crear las clases Edificio, Piso y Departamento aquí
-
+// HOLA ESTOY EDITANDO DESDE GITHUB!!!
 class Departamento {
     nombreDeDepartamento:string;
     constructor(nombre:string) {
